@@ -1,0 +1,23 @@
+Acme Corp Remote Work Policy
+
+Effective Date: January 1, 2025
+
+1. Eligibility
+All full-time employees who have completed their probationary period (90 days) are eligible for remote work. Part-time employees may work remotely up to 2 days per week with manager approval.
+
+2. Core Hours
+Remote employees must be available during core hours: 10:00 AM to 3:00 PM in their local timezone. Meetings scheduled outside core hours require 48-hour notice.
+
+3. Equipment
+Acme Corp provides a laptop, monitor, and $500 annual stipend for home office equipment. Employees must return all company equipment within 5 business days of separation.
+
+4. Data Security
+Employees must use the company VPN when accessing internal systems. Personal devices may not store confidential customer data. Violations may result in disciplinary action.
+
+5. Expense Reimbursement
+Internet costs up to $75/month are reimbursable with manager approval. Coworking space memberships are not covered unless pre-approved by HR.
+
+6. Performance Reviews
+Remote employees are evaluated on the same criteria as in-office staff. Annual reviews occur in March. Mid-year check-ins are held in September.
+
+Contact: hr@acmecorp.com for questions about this policy.

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  rag-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: intelligent-doc-assistant
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./rag_storage:/app/rag_storage
+    env_file:
+      - .env
+    restart: unless-stopped
