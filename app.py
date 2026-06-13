@@ -6,7 +6,7 @@ import streamlit.components.v1 as components
 from dotenv import load_dotenv
 
 from rag import RAGPipeline
-from rag.document_loader import SUPPORTED_EXTENSIONS
+from rag.pipelines.ingest_pipeline import SUPPORTED_EXTENSIONS
 
 load_dotenv()
 
